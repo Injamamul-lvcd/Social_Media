@@ -1,0 +1,25 @@
+{
+  "name": "Social_Media",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "injamamul hoque",
+  "license": "ISC",
+  "dependencies": {
+    "@joi/date": "^2.1.0",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "joi": "^17.9.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.3.0",
+    "multer": "*",
+    "nodemailer": "^6.9.3",
+    "shortid": "^2.2.16",
+    "socket.io": "^4.7.1"
+  }
+}
