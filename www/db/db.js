@@ -34,6 +34,3 @@ mongoose.set('debug',true)
 module.exports={
     startDB:startDB
 }
-
-//mongodb://root:kzwjjQd7T%239Pc35%2A@localhost:27017/
-//mongodb+srv://system:system@socailmedia.y10dbva.mongodb.net/?retryWrites=true&w=majority
